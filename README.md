@@ -15,7 +15,7 @@
 - Methods
 - Coding etiquettes
 
-<h2>Installation</h2>
+<h2>Testing</h2>
 
 1. Download or copy the code in the main.c
 2. Import it in a C++ IDE or use an online source (https://www.onlinegdb.com/online_c++_compiler)
