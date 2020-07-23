@@ -8,12 +8,7 @@
 
 <strong>Goal:</strong> This program takes the user's input for their name, the monster name, and directions and simulates a text adventure.
 
-<strong>Requirements: </strong>
-<ul>
-  <li>Allow the user to select a mathematical operation</li>
-  <li>Perform selected operation</li>
-  <li>Return results</li>
-</ul>
+<strong>Requirements: </strong> Create a text-based adventure game.  The user enters a name, monster's name and a direction(N/S/W/E) they would like to go.  The users are given 5 bananas and 3 oranges to start and at the end of the game your school is displayed.  Each room triggers different events and there is one exit door.
 
 <h2>Key learnings</h2>
 
