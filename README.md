@@ -18,6 +18,7 @@
 <h2>Key learnings</h2>
 
 - Methods
+- Coding etiquettes
 
 <h2>Installation</h2>
 
